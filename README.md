@@ -6,10 +6,8 @@
 ## Air Conditioner System Design
 ![air_conditioner](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/%EA%B2%B0%EA%B3%BC%EC%BA%A1%EC%B2%98.PNG)
 
-## Packet Routing System Design
-사진을 누르면 영상으로 연결됩니다
+## Packet Routing System Design (사진을 누르면 영상으로 연결됩니다)
 [![Watch the video](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/front.PNG)](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/Routing%20Model.mp4)
 
-## Calculator Design
-사진을 누리면 영상으로 연결됩니다
-[![Watch the video](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/front.PNG)](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/Routing%20Model.mp4)
+## Calculator Design (사진을 누리면 영상으로 연결됩니다)
+[![Watch the video](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/front1.PNG)](https://github.com/DustinYook/DEVSJAVA_SE18/blob/master/calculator.mp4)
